@@ -47,10 +47,10 @@
 		"disconnected"
 	],
 	"dependencies": {
-		"got": "^11.8.0",
-		"p-any": "^3.0.0",
-		"p-timeout": "^3.2.0",
-		"public-ip": "^4.0.4"
+		"got": "^12.1.0",
+		"p-any": "^4.0.0",
+		"p-timeout": "^5.1.0",
+		"public-ip": "^5.0.0"
 	},
 	"devDependencies": {
 		"ava": "^2.4.0",
